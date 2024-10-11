@@ -53,3 +53,6 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
     <img src="https://img.shields.io/badge/2zi.sung00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">

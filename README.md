@@ -50,6 +50,6 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="https://google.com">
-    <img src="https://img.shields.io/badge/2zi.sung00@gmail.com-005FF9?style=for-the-badge&logo=mail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/2zi.sung00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>

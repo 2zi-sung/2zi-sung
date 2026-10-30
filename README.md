@@ -1,8 +1,8 @@
 <img src="assets/hero-v3.svg" alt="Jisung Lee - AI Developer" width="100%" />
 
 <p align="center">
-  <a href="https://velog.io/@2zi_sung"><img src="https://img.shields.io/badge/Velog-Blog-0d1117?style=for-the-badge&logo=velog&logoColor=1EBC8F" alt="Velog" /></a>
-  <a href="mailto:2zi.sung00@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://velog.io/@2zi_sung"><img src="https://img.shields.io/badge/Velog-0d1117?style=for-the-badge&logo=velog&logoColor=1EBC8F" alt="Velog" /></a>
+  <a href="mailto:2zi.sung00@gmail.com"><img src="https://img.shields.io/badge/Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 <img src="assets/terminal-v3.svg" alt="whoami" width="100%" />
@@ -51,4 +51,4 @@ Open to collaboration on AI and machine learning projects<br>
 Looking for input on deep learning optimization techniques
 </p>
 
-<img src="assets/footer-v3.svg" alt="" width="100%" />
+<img src="assets/footer-v4.svg" alt="" width="100%" />

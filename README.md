@@ -1,1 +1,1 @@
-<img src="assets/profile-v4.svg" alt="Jisung Lee, AI Engineer in Seoul. Focus: LLM and RAG, document intelligence, NLP and ML. Stack: Python, PyTorch, TensorFlow, Hugging Face, scikit-learn, LangChain, pandas, NumPy, Oracle, MySQL, SQLite, Docker, Git, GitHub, GitLab." width="100%" />
+<img src="assets/profile-v5.svg" alt="Jisung Lee, AI Engineer in Seoul. Focus: LLM and RAG, document intelligence, NLP and ML. Stack: Python, PyTorch, TensorFlow, Hugging Face, scikit-learn, LangChain, pandas, NumPy, Oracle, MySQL, SQLite, Docker, Git, GitHub, GitLab." width="100%" />

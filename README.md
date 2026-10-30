@@ -1,58 +1,68 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jisung-LeeLee/Jisung-LeeLee/main/intro_hi_there.gif"  alt="👋 Hi there! I'm Jisung-Lee" title="👋 Hi there! I'm Jisung-Lee"/>
-</div>
-<hr>
-<p align="justify">
-Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializing in Python, creating intelligent systems and machine/deep learning models to solve complex problems efficiently. I have been programming for almost more than 3 years and worked with many languages and technologies.
-</p>
-<hr>
-<h3 align="justify">✨ Tech Stack ✨</h3>
-<h5 align="justify">AI</h5>
-<div align="justify">
-  <img src="https://img.shields.io/badge/python-1F8ACB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/hugging face-FFD21E?style=for-the-badge&logo=hugging face&logoColor=white" />&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp
-</div>
-<h5 align="justify">Database</h5>
-<div align="justify">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
-</div>
-<h5 align="justify">DevOps</h5>
-<div align="justify">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8ACB,100:7B61FF&height=200&section=header&text=Jisung%20Lee&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%C2%B7%20Python%20%C2%B7%20LLM%20%26%20NLP&descAlignY=60&descSize=18" alt="Jisung Lee banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=1F8ACB&center=true&vCenter=true&width=560&lines=Building+LLM+%26+RAG+systems;Turning+documents+into+structured+data;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
 <br>
 
-- 🔭 I’m currently working on **KSPOT**
+<a href="https://velog.io/@2zi_sung"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white" /></a>
+<a href="mailto:2zi.sung00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Seoul-South%20Korea-1F8ACB?style=flat-square&logo=googlemaps&logoColor=white" />
 
-- 🌱 I’m currently learning **large-scale data processing**
-
-- 👯 I’m looking to collaborate on **AI and machine learning projects**
-
-- 🤝 I’m looking for help with **deep learning optimization techniques**
-
-<br>
-<h3 align="justify">📫 Contact 📫</h3>
-<div align="justify">
-  <a href="https://velog.io/@2zi_sung">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="https://google.com">
-    <img src="https://img.shields.io/badge/2zi.sung00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
 
-<br>
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+---
+
+## 👋 About me
+
+AI developer based in Seoul, working mainly in **Python**.
+I build practical systems around **LLMs, RAG, and NLP**: pipelines that read documents, extract what matters, and turn it into structured, usable data.
+3+ years of programming across ML/DL, data processing, and backend services.
+
+## 🛠 Tech stack
+
+<div align="center">
+
+**AI / Data**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=oracle,mysql,sqlite&theme=dark" />
+
+**DevOps / Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark" />
+
+</div>
+
+## 🌱 Now
+
+| | |
+|---|---|
+| 🔭 Working on | AI products with LLMs and document pipelines |
+| 🌱 Learning | Large-scale data processing |
+| 👯 Open to | Collaboration on AI / machine learning projects |
+| 🤝 Looking for help with | Deep learning optimization techniques |
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=2zi-sung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2zi-sung&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 📫 Reach me
+
+- ✍️ Blog: [velog.io/@2zi_sung](https://velog.io/@2zi_sung)
+- 📧 Email: 2zi.sung00@gmail.com
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:1F8ACB&height=100&section=footer" alt="" />
+</div>

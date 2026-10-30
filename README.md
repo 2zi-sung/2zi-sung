@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Jisung Lee, AI Developer" width="100%" />
+<img src="assets/banner-v2.svg" alt="Jisung Lee, AI Developer" width="100%" />
 
 <p align="center">
   <a href="https://velog.io/@2zi_sung"><img src="https://img.shields.io/badge/Blog-Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white" alt="Velog" /></a>
